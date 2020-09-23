@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ I'm currently working on LARGE SCALE STRUCTURE OF THE UNIVERSE: This includes studies of the structure and properties of clusters and groups of galaxies, galaxy evolution through observations of galaxies at intermediate and high redshifts, cosmology in general, the structure of the universe as a whole, cosmological parameters and the extra-galactic distance scale. The data are mapped with Hubble Space Telescope (HST)  and Spitzer Telescopes to investigate clustering around host (AGN) or star formation activity. 
