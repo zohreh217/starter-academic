@@ -30,12 +30,12 @@ education:
   - course: PhD in Astrophysics
     institution: RUHR-UNIVERSITÄT BOCHUM
     year: 2020
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc in Physics
+    institution: IASBS
+    year: 2011
+  - course: BSc in Physics
+    institution: Shiraz University
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
