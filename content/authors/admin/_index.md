@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zohreh Ghaffari
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Phd Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Astronomisches Institute Ruhr Universita:t Bochum
+  url: "https://www.ruhr-uni-bochum.de/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Astrophysics
+- Galaxy Clusters
+- Cosmology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Astrophysics
+    institution: Ruhr University of Bochm.
+    year: 2020
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
