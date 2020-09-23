@@ -14,11 +14,11 @@ role: Phd Student
 
 # Organizations/Affiliations
 organizations:
-- name: Astronomisches Institute Ruhr Universita:t Bochum
+- name: Astronomisches Institute RUHR-UNIVERSITÄT BOCHUM.
   url: "https://www.ruhr-uni-bochum.de/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  I'm currently working on LARGE SCALE STRUCTURE OF THE UNIVERSE: This includes studies of the structure and properties of clusters and groups of galaxies, galaxy evolution through observations of galaxies at intermediate and high redshifts, cosmology in general, the structure of the universe as a whole, cosmological parameters and the extra-galactic distance scale. The data are mapped with Hubble Space Telescope (HST)  and Spitzer Telescopes to investigate clustering around host (AGN) or star formation activity. 
 
 interests:
 - Astrophysics
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Astrophysics
-    institution: Ruhr University of Bochm.
+    institution: RUHR-UNIVERSITÄT BOCHUM
     year: 2020
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
