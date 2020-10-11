@@ -21,12 +21,12 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
+   [[content.filter_button]]
      name = "evolution of galaxies and clusters"
-   #  tag = "*"
+     tag = "redshift"
   
   # [[content.filter_button]]
-    name = "Galaxy cluster"
+  #  name = "Galaxy cluster"
  #    tag = "Galaxy cluster"
   
   # [[content.filter_button]]
