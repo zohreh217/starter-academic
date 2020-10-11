@@ -25,10 +25,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
+    tag = "Galaxy clusters, high-redshift, active galaxies, evolution of galaxies and clusters"
+    category = "Observational Cosmology"
+    publication_type = "AN"
+    author = "Zohreh Ghaffari et al."
     exclude_featured = false
   
 [design]
