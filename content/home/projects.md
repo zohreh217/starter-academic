@@ -22,12 +22,12 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+     name = "evolution of galaxies and clusters"
+     tag = "redshift"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+    name = "Galaxy cluster"
+     tag = "Galaxy cluster"
   
   # [[content.filter_button]]
   #   name = "Other"
@@ -61,7 +61,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "background.jpg"  # Name of image in `static/media/heic0813a.jpg`.
+  #image = "background.jpg"  # Name of image in `static/media/heic0813a.jpg`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
