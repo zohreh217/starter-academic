@@ -23,11 +23,11 @@ subtitle = ""
   
   # [[content.filter_button]]
      name = "evolution of galaxies and clusters"
-     tag = "redshift"
+   #  tag = "*"
   
   # [[content.filter_button]]
     name = "Galaxy cluster"
-     tag = "Galaxy cluster"
+ #    tag = "Galaxy cluster"
   
   # [[content.filter_button]]
   #   name = "Other"
