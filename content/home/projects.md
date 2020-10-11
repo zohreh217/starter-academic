@@ -22,16 +22,18 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
+    name = "Galaxy cluster"
+     tag = "Galaxy cluster"
+     
+   [[content.filter_button]]
      name = "evolution of galaxies and clusters"
      tag = "redshift"
   
-   [[content.filter_button]]
-    name = "Galaxy cluster"
-     tag = "Galaxy cluster"
+
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   [[content.filter_button]]
+     name = "Data reduction"
+     tag = "Magellan telescope"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -61,7 +63,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  #image = "background.jpg"  # Name of image in `static/media/heic0813a.jpg`.
+  image = "heic0813a.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
