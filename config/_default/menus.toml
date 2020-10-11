@@ -19,9 +19,9 @@
 #  weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+#  name = "Publications"
+#  url = "#featured"
+#  weight = 40
 
 [[main]]
 #  name = "Contact"
@@ -31,5 +31,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
-    url = "#static/media/Zohreh_gh.pdf"
+    url = "https://github.com/zaffari2018/starter-academic/tree/master/content/publication"
     weight = 70
