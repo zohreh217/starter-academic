@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Publications"
 subtitle = ""
 
 # Date format
@@ -47,5 +47,15 @@ date_format = "Jan 2006"
   date_start = "2017-07-01"
   date_end = "2017-12-21"
   description = ""
+  
+  [[item]]
+   organization = "lll"
+   organization_url = ""
+   title = "pp"
+   url = "https://iopscience.iop.org/article/10.3847/1538-4357/ab2913/pdf"
+   certificate_url = ""
+   date_start = "2019-07-20"
+   date_end = ""
+   description = "The Astrophysical Journal, 880:46 (15pp), (2019)"
 
 +++
