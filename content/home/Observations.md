@@ -1,11 +1,11 @@
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Observations"
+title = "Publications and preprints"
 subtitle = ""
 
 # Date format
@@ -18,19 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
-
-# [[item]]
-# organization = "Bochum Observatory, Cerro Armazones, Chile"
-#  organization_url = "https://www.datacamp.com"
-#  title = "Optical and NIR reverberation mapping of AGN"
-#  url = ""
-#  certificate_url = "https://www.datacamp.com"
-#  date_start = "2017-present"
-#  date_end = "2017-12-21"
-#  description = ""
-
-
+ 
 [[item]]
    organization = "Science project: Optical and IR reverberation mappingof AGN"
    organization_url = ""
