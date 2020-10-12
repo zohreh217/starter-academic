@@ -31,20 +31,6 @@ subtitle = ""
     author = "Zohreh Ghaffari et al."
     exclude_featured = false
   
-[[item]]
-   organization = "Ramolla, Michael; Haas, Martin; Westhues, Christian;
-Pozo Nuñez, Francisco; Sobrino Figaredo, Catalina; Blex, Julia; Zetzl,
-Matthias; Kollatschny, Wolfram; Hodapp, Klaus W.; Chini, Rolf; Murphy,
-Miguel. "
-   organization_url = ""
-   title = "Simultaneous H-alpha and dust reverberation mapping of 3C
-120: Testing the bowl-shaped torus geometry"
-   url = "https://www.aanda.org/articles/aa/pdf/2018/12/aa32081-17.pdf"
-   certificate_url = ""
-   date_start = "2018-12-01"
-   date_end = ""
-   description = "Astronomy & Astrophysics Volume 620, Number A137 (2018)"
-
 [design]
   # Toggle between the various page layout types.
   #   1 = List
