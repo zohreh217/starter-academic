@@ -38,5 +38,13 @@ date_format = "Jan 2006"
    date_start = "2018-06-17"
    date_end = "2018-06-19"
    description = "3 observing nights with the Magellan 6.5 m Telescope"
-
+[[item]]
+   organization = "Science project:Ten Billion Years of Brightest Cluster Galaxy Alignment"
+   organization_url = ""
+   title = "4-m Discovery Channel Telescope, Lowell Observatory, USA"
+   url = "https://lowell.edu/"
+   certificate_url = ""
+   date_start = "2017"
+   date_end = "2020"
+   description = "Whenever needed"
 +++
