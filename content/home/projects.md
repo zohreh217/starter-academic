@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+
 subtitle = ""
 
 [content]
@@ -65,7 +65,7 @@ subtitle = ""
   # Background image.
   image = "heic0813a.jpg"  # Name of image in `static/media/`.
   image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
+title = "Projects"
 #   Text color (true=light or false=dark).
 #   text_color_light = true  
   
