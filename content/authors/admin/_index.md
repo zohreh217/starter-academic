@@ -56,9 +56,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-  link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
- I'm currently working on LARGE SCALE STRUCTURE OF THE UNIVERSE: This includes studies of the structure and properties of clusters and groups of galaxies, galaxy evolution through observations of galaxies at intermediate and high redshifts, cosmology in general, the structure of the universe as a whole, cosmological parameters and the extra-galactic distance scale. The data are mapped with Hubble Space Telescope (HST)  and Spitzer Telescopes to investigate clustering around host (AGN) or star formation activity. 
+I’m currently working on LARGE SCALE STRUCTURE OF THE UNIVERSE: This includes studies of the structure and properties of clusters and groups of galaxies, galaxy evolution through observations of galaxies at intermediate and high redshifts, cosmology in general, the structure of the universe as a whole, cosmological parameters and the extra-galactic distance scale. In particular, I investigate galaxy clustering around powerful radio galaxies (which serve as cosmic mass beacons). These regions are mapped with the Hubble and SPITZER Space Telescopes (HST, SST) and from the ground with the 6.5-m Magellan Telescope and the 4.3-m Lowell Discovery Telescope.
