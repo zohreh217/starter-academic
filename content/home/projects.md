@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-
+title = "Projects"  
 subtitle = ""
 
 [content]
@@ -69,7 +69,6 @@ subtitle = ""
 #   Text color (true=light or false=dark).
   text_color_light = true  
 
-title = "Projects"  
 
 [advanced]
  # Custom CSS. 
