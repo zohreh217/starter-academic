@@ -21,13 +21,13 @@ date_format = "Jan 2006"
  
   [[item]]
    organization = "Z. Ghaffari, Ch. Westhues, M. Haas, R. Chini, S. P. Willner, M. L. N. Ashby, B. J. Wilkes"
-   organization_url = "Clustering of red and blue galaxies around high-redshift 3C radiosources as seen by the Hubble Space Telescope"
-   title = "title"
+   organization_url = ""
+   title = "Clustering of red and blue galaxies around high-redshift 3C radiosources as seen by the Hubble Space Telescope"
    url = "https://www.researchgate.net/publication/344612427_Clustering_of_red_and_blue_galaxies_around_high redshift_3C_radio_sources_as_seen_by_the_Hubble_Space_Telescope#fullTextFileContent"
    certificate_url = ""
    date_start = "2020-09-14"
    date_end = ""
-   description = "journal / Draft The Astrophysical Journal, 880:46 (15pp), (2019)"
+   description = "Submitted A&A, (Sep. 2020)"
    
   [[item]]
    organization = "Z. Ghaffari, Ch. Westhues, M. Haas, R. Chini, S. P. Willner, M. L. N. Ashby, B. J. Wilkes"
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
    certificate_url = ""
    date_start = "2017-07-20"
    date_end = ""
-   description = "Astronomische Nachrichten"
+   description = "Astronomische Nachrichten, Accepted: 21 August 2017"
    
    
  
