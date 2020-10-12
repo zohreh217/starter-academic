@@ -22,24 +22,16 @@ date_format = "Jan 2006"
 
 
 
-# [[item]]
-# organization = "Bochum Observatory, Cerro Armazones, Chile"
-#  organization_url = "https://www.datacamp.com"
-#  title = "Optical and NIR reverberation mapping of AGN"
-#  url = ""
-#  certificate_url = "https://www.datacamp.com"
-#  date_start = "2017-present"
-#  date_end = "2017-12-21"
-#  description = ""
-[[item]]
-   organization = "ppp "
-   organization_url = ""
-   title = "3c"
-   url = "https://www.aanda.org/articles/aa/pdf/2018/12/aa32081-17.pdf"
-   certificate_url = ""
-   date_start = "2018-12-01"
-   date_end = ""
-   description = "Astronomy & Astrophysics Volume 620, Number A137 (2018)"
+ [[item]]
+ organization = "Bochum Observatory, Cerro Armazones, Chile"
+  organization_url = "https://www.datacamp.com"
+  title = "Optical and NIR reverberation mapping of AGN"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2017-present"
+  date_end = "2017-12-21"
+  description = ""
+
 
 
 
