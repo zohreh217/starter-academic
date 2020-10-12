@@ -30,13 +30,21 @@ date_format = "Jan 2006"
    description = "Responsible for observing plans and telescope operator for 3 optical and 1 near-infrared telescope of the Bochum observatory."
 
 [[item]]
-   organization = "Science project: Searching for Galaxy Clusters at z > 1"
-   organization_url = ""
+   organization = "Science project: Galaxy clusters at z > 1.3"
+   organization_url = "PI Steve Willner"
    title = "Las Campanas Observatory, La Serena, Chile"
    url = "http://www.lco.cl/"
    certificate_url = ""
    date_start = "2018-06-17"
    date_end = "2018-06-19"
-   description = "3 observing nights in the Magellan 6.5 m Telescope"
-
+   description = "3 observing nights with the Magellan 6.5 m Telescope"
+[[item]]
+   organization = "Science project:Ten Billion Years of Brightest Cluster Galaxy Alignment"
+   organization_url = "PI Michael West"
+   title = "4-m Discovery Channel Telescope, Lowell Observatory, USA"
+   url = "https://lowell.edu/"
+   certificate_url = ""
+   date_start = "2017"
+   date_end = "2020"
+   description = "Whenever needed"
 +++
