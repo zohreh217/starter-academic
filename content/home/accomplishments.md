@@ -20,24 +20,24 @@ date_format = "Jan 2006"
 
  
   [[item]]
-   organization = "autohrs"
-   organization_url = ""
+   organization = "Z. Ghaffari, Ch. Westhues, M. Haas, R. Chini, S. P. Willner, M. L. N. Ashby, B. J. Wilkes"
+   organization_url = "Clustering of red and blue galaxies around high-redshift 3C radiosources as seen by the Hubble Space Telescope"
    title = "title"
-   url = "https://www.researchgate.net/publication/344612427_Clustering_of_red_and_blue_galaxies_around_high-redshift_3C_radio_sources_as_seen_by_the_Hubble_Space_Telescope#fullTextFileContent"
+   url = "https://www.researchgate.net/publication/344612427_Clustering_of_red_and_blue_galaxies_around_high redshift_3C_radio_sources_as_seen_by_the_Hubble_Space_Telescope#fullTextFileContent"
    certificate_url = ""
-   date_start = "2019-07-20"
+   date_start = "2020-09-14"
    date_end = ""
    description = "journal / Draft The Astrophysical Journal, 880:46 (15pp), (2019)"
    
   [[item]]
-   organization = "Zohreh Ghaffari ... "
+   organization = "Z. Ghaffari, Ch. Westhues, M. Haas, R. Chini, S. P. Willner, M. L. N. Ashby, B. J. Wilkes"
    organization_url = ""
-   title = "Galaxy overdensities around 3C sources"
+   title = "Galaxy overdensities around 3C radio galaxies and quasarsat 1<z<2.5 revealed bySpitzer3.6/4.5μm and Pan-STARRS"
    url = "https://onlinelibrary.wiley.com/doi/pdf/10.1002/asna.201713389"
    certificate_url = ""
    date_start = "2017-07-20"
    date_end = ""
-   description = "Astronomische Nachrichten, ------ "
+   description = "Astronomische Nachrichten"
    
    
  
