@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 [[item]]
    organization = "Ramolla, Michael"
    organization_url = ""
-   title = "Simultaneous H-alpha and dust reverberation mapping of 3C120: Testing the bowl-shaped torus geometry"
+   title = "kkkkk"
    url = "https://www.aanda.org/articles/aa/pdf/2018/12/aa32081-17.pdf"
    certificate_url = ""
    date_start = "2018-12-01"
