@@ -14,11 +14,11 @@ role: Phd Student
 
 # Organizations/Affiliations
 organizations:
-- name: Astronomisches Institute RUHR-UNIVERSITÄT BOCHUM.
+- name: Astronomisches Institute Ruhr-universitaet Bochum.
   url: "https://www.ruhr-uni-bochum.de/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  I'm currently working on LARGE SCALE STRUCTURE OF THE UNIVERS.
+bio:  ...
 
 interests:
 - Astrophysics
@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: PhD in Astrophysics
-    institution: RUHR-UNIVERSITÄT BOCHUM
+    institution: Ruhr-universitaet Bochum
     year: 2020
   - course: M.Sc in Physics
-    institution: IASBS
+    institution: Institute for Advanced Studies in Basic Sciences (IASBS)
     year: 2011
   - course: BSc in Physics
     institution: Shiraz University
@@ -56,9 +56,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
