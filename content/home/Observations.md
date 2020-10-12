@@ -34,17 +34,14 @@ date_format = "Jan 2006"
 
 
 [[item]]
-   organization = "Science project: Optical and IR reverberation mapping
-of AGN"
+   organization = "Science project: Optical and IR reverberation mappingof AGN"
    organization_url = ""
    title = "Bochum Observatory, Cerro Armazones, Chile"
    url = "https://www.astro.rub.de/ResearchTeamAstrophysik/"
    certificate_url = ""
    date_start = "2017-02-01"
    date_end = "2020-01-01"
-   description = "Responsible for observing plans and telescope operator
-for 3 optical and 1 near-infrared telescope of the Bochum observatory.
-During a period of 3 years, accumulated around 150 observing nights."
+   description = "Responsible for observing plans and telescope"
 
 [[item]]
    organization = "Science project: Searching for Galaxy Clusters at z > 1"
