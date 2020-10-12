@@ -9,8 +9,7 @@ title = "Observations"
 subtitle = ""
 
 # Date format
-#   Refer to
-https://sourcethemes.com/academic/docs/customization/#date-format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
 # Accomplishments.
