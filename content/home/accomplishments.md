@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Publications"
+title = "Publications and preprints"
 subtitle = ""
 
 # Date format
@@ -49,10 +49,10 @@ date_format = "Jan 2006"
   description = ""
   
   [[item]]
-   organization = "lll"
+   organization = "3C ..."
    organization_url = ""
    title = "pp"
-   url = "https://iopscience.iop.org/article/10.3847/1538-4357/ab2913/pdf"
+   url = "https://www.researchgate.net/publication/344612427_Clustering_of_red_and_blue_galaxies_around_high-redshift_3C_radio_sources_as_seen_by_the_Hubble_Space_Telescope#fullTextFileContent"
    certificate_url = ""
    date_start = "2019-07-20"
    date_end = ""
