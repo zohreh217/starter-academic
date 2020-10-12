@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 
 [[item]]
    organization = "Science project: Galaxy clusters at z > 1.3"
-   organization_url = "PI Steve Willner"
+   organization_url = ""
    title = "Las Campanas Observatory, La Serena, Chile"
    url = "http://www.lco.cl/"
    certificate_url = ""
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
    description = "3 observing nights with the Magellan 6.5 m Telescope"
 [[item]]
    organization = "Science project:Ten Billion Years of Brightest Cluster Galaxy Alignment"
-   organization_url = "PI Michael West"
+   organization_url = ""
    title = "4-m Discovery Channel Telescope, Lowell Observatory, USA"
    url = "https://lowell.edu/"
    certificate_url = ""
