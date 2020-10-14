@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Astrophysics
     institution: Ruhr-universitaet Bochum
-    year: 2020
+    year: 2016-2020
   - course: M.Sc in Physics
     institution: Institute for Advanced Studies in Basic Sciences (IASBS)
-    year: 2011
+    year: 2008-2011
   - course: BSc in Physics
     institution: Shiraz University
-    year: 2008
+    year: 2003-2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
