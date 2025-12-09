@@ -14,8 +14,8 @@ role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Instituto de Astrofísica de Canarias, IAC
-  url: "https://www.iac.es/en"
+- name: INAF-Osservatorio Astronomico di Trieste
+  url: "https://www.oats.inaf.it/index.php/it/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:  ...
