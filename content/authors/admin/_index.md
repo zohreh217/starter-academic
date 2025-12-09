@@ -14,8 +14,8 @@ role: Phd Student
 
 # Organizations/Affiliations
 organizations:
-- name: Astronomisches Institute RUHR-UNIVERSITÄT BOCHUM.
-  url: "https://www.ruhr-uni-bochum.de/en"
+- name: Osservatorio Astronomico di Trieste - INAF
+  url: "https://www.oats.inaf.it/index.php/it/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:  I'm currently working on LARGE SCALE STRUCTURE OF THE UNIVERS.
